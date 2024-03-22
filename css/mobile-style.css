@@ -1,0 +1,349 @@
+@media(max-width:1199px) {
+    header .container .row .col-md-5 .carousel {
+        padding-top: 20%;
+
+    }
+
+    header .container .row .col-md-5 .carousel .carousel-control-prev,
+    header .container .row .col-md-5 .carousel .carousel-control-next {
+        padding-top: 20%;
+    }
+
+    .navbar-brand {
+        padding-left: 5rem;
+    }
+
+    .nav-item:last-child {
+        padding-right: 2.5em;
+    }
+
+    .section-2 .container-fluid .projects .project1,
+    .section-2 .container-fluid .projects .project2,
+    .section-2 .container-fluid .projects .project3,
+    .section-2 .container-fluid .projects .project4 {
+        width: 16rem;
+        height: 24rem;
+        padding-top: 5%;
+        margin: 0.5rem;
+    }
+
+    .section-2 .container-fluid .projects {
+        padding-top: 10vmin;
+    }
+
+    /*.section-3 {
+        height: 100vh;
+
+    }*/
+}
+
+@media(max-width:1128px) {
+    .section-2 .container-fluid .projects {
+        padding-top: 2vmin;
+    }
+
+    .section-2 .container-fluid .projects .project1,
+    .section-2 .container-fluid .projects .project2,
+    .section-2 .container-fluid .projects .project3,
+    .section-2 .container-fluid .projects .project4 {
+        width: 20rem;
+        height: 18rem;
+        padding-top: 5%;
+        margin: 1.2rem;
+    }
+
+    .section-2 .container-fluid .cover {
+        height: 30vmin;
+    }
+}
+
+@media(max-width: 1024px) {
+
+    header,
+    section {
+        overflow-y: hidden;
+    }
+
+    .navbar-brand {
+        padding-left: 3rem;
+    }
+
+    .section-2 .container-fluid .cover {
+        height: 30vmin;
+    }
+
+    .section-2 .container-fluid .cover .content {
+        padding-top: 2vmin;
+    }
+
+    .section-2 .container-fluid .projects .project1,
+    .section-2 .container-fluid .projects .project2,
+    .section-2 .container-fluid .projects .project3,
+    .section-2 .container-fluid .projects .project4 {
+        width: 14rem;
+        height: 24rem;
+        padding-top: 5%;
+        margin: 0.5rem;
+    }
+
+    .section-2 .container-fluid .projects {
+        padding-top: 10vmin;
+    }
+
+    /*.section-2 {
+        height: 100vh;
+    }
+
+    .section-3 {
+        height: 100vh;
+
+    }*/
+
+    footer .container-fluid .row .col-md-3 {
+        padding-right: 0;
+    }
+}
+
+@media(max-width:991px) {
+    header .container .row .col-md-5 .carousel {
+        padding-top: 80%;
+
+    }
+
+    header .container .row .col-md-5 .carousel .carousel-control-prev,
+    header .container .row .col-md-5 .carousel .carousel-control-next {
+        padding-top: 80%;
+    }
+}
+
+@media(max-width:846px) {
+
+    .section-3 .container-fluid .cards .card {
+        margin: 2vmin;
+    }
+
+}
+
+@media (max-width: 768px) {
+    header .container .row .col-md-5 .carousel {
+        padding-top: 90%;
+
+    }
+
+    header .container .row .col-md-5 .carousel .carousel-control-prev,
+    header .container .row .col-md-5 .carousel .carousel-control-next {
+        padding-top: 80%;
+    }
+
+    .section-1 .container .row .col-md-6 .panel {
+        top: 0;
+        left: 0;
+        text-align: left;
+        width: 21rem;
+        height: 25rem;
+    }
+
+    .section-1 .container .row .col-md-6 .panel h1 {
+        margin-top: -12vmin;
+        padding: 0 0;
+        font-size: 1.5em;
+    }
+
+    .section-1 .container .row .col-md-6 .panel p {
+        font-size: 0.7em;
+
+    }
+
+    /*.section-2 {
+        height: 100vh;
+    }*/
+
+    .section-2 .container-fluid .projects .project1,
+    .section-2 .container-fluid .projects .project2,
+    .section-2 .container-fluid .projects .project3,
+    .section-2 .container-fluid .projects .project4 {
+        width: 16rem;
+        height: 18rem;
+        padding-top: 5%;
+        margin: 1.5rem;
+    }
+
+    .section-2 .container-fluid .projects {
+        padding-top: 5vmin;
+    }
+
+    .section-3 .container-fluid .service-intro h1 {
+        padding-top: 0.5vmin;
+
+    }
+
+    .section-3 .container-fluid .service-intro p {
+        font-size: 2vmin;
+        padding-bottom: 0;
+    }
+
+    .section-3 .container-fluid .cards .card {
+        margin: 1.5vmin;
+
+
+    }
+
+    .section-4 .container-fluid .platform .col-md-3 .d-flex .text {
+        font-size: 1.5em;
+    }
+
+    footer .container-fluid .row .col-md-3 {
+        padding-right: 5vmin;
+        margin-right: 1vmin;
+    }
+
+    .nav-item {
+        padding: 0.2em 0.2em 0em 2.2em;
+    }
+
+
+}
+
+/*@media(max-width:767px) {
+    header .container .row .col-md-7 {
+        padding-top: 0;
+
+    }
+
+    header .container .row .col-md-5 .carousel {
+        padding-top: 0;
+
+
+    }
+
+    header .container .row .col-md-5 .carousel .carousel-inner img {
+        height: 70vmin;
+    }
+
+    .section-1 .container .row .col-md-6 .panel {
+        top: -42vmin;
+        left: 0;
+        text-align: left;
+        width: 28rem;
+        height: 38rem;
+    }
+}*/
+
+@media (max-width: 425px) {
+    .navbar-brand {
+        padding-left: 1rem;
+    }
+
+    header .container .row .col-md-7 {
+        padding-top: 1.5em;
+
+    }
+
+    header .container .row .col-md-5 .carousel {
+        padding-top: 0;
+
+    }
+
+    /*.section-1 .container {
+        height: 100vh;
+    }*/
+
+    .section-1 .container .row .col-md-6 .panel {
+        position: relative;
+        top: 2vmin;
+        left: 7vmin;
+        text-align: center;
+        width: 21rem;
+        height: 36rem;
+    }
+
+    .section-1 .container .row .col-md-6 .panel h1 {
+        padding: 0 0;
+        font-size: 2em;
+    }
+
+    .section-2 .container-fluid .cover .content p {
+        font-size: 3vmin;
+    }
+
+    .section-1 .container .row .col-md-6 .panel p {
+        font-size: 0.9em;
+    }
+
+    .section-2 .container-fluid .cover {
+        height: 30vmin;
+    }
+
+    .section-2 .container-fluid .projects {
+        padding-top: 2vmin;
+    }
+
+    .section-2 .container-fluid .projects .project1,
+    .section-2 .container-fluid .projects .project2,
+    .section-2 .container-fluid .projects .project3,
+    .section-2 .container-fluid .projects .project4 {
+        width: 16rem;
+        height: 9.5rem;
+        padding-top: 10%;
+        margin: 1rem;
+    }
+
+    .section-3 .container-fluid .service-intro p {
+        font-size: 3vmin;
+    }
+
+    .section-4 .container-fluid .platform {
+        padding-top: 2.5vmin;
+    }
+
+
+
+}
+
+@media(max-width:375px) {
+    .section-1 .container .row .col-md-6 .panel {
+
+        left: 3vmin;
+
+    }
+
+
+    .section-2 .container-fluid .cover .content p {
+        font-size: 4vmin;
+    }
+
+    .section-2 .container-fluid .cover {
+        height: 35vmin;
+    }
+
+    .section-2 .container-fluid .projects {
+        padding-top: 5vmin;
+    }
+
+    .section-3 .container-fluid .service-intro p {
+        font-size: 3.6vmin;
+    }
+}
+
+@media(max-width:320px) {
+    .section-1 .container .row .col-md-6 .panel {
+        width: 18rem;
+        height: 40rem;
+        left: 2vmin;
+    }
+
+    .section-3 .container-fluid .cards .card .card-body .title {
+        padding: 1rem 1rem;
+        font-size: 1.5vmin;
+    }
+
+    .section-3 .container-fluid .service-intro p {
+        font-size: 4vmin;
+    }
+
+    .section-3 .container-fluid .cards .card .card-body .card-text {
+        padding: 1.5rem 1.5rem;
+        font-size: 4.5vmin;
+    }
+
+}
